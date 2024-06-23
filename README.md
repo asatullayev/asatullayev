@@ -26,11 +26,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 🎥 Movie lover
 
 
-#
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Python+Developer;Python+Developer)](#) -->
 
-## 🌎 Links:
+## Links
 <div>
     <a href = "https://www.linkedin.com/in/abduraxmon-asatullaev-011184249/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/abdurakhmon.asatullayev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
